@@ -1,0 +1,10 @@
+NAME_2---True
+NAME_4---True
+NAME_6---True
+NAME_2---True
+NAME_4---True
+NAME_6---True
+NAME_6---False
+NAME_4---False
+NAME_2---True
+NAME_4---True
