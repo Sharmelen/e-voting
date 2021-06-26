@@ -1,6 +1,0 @@
-STUDENT_1---True
-STUDENT_3---True
-STUDENT_5---True
-STUDENT_7---True
-STUDENT_6---True
-STUDENT_4---True
