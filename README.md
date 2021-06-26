@@ -15,4 +15,4 @@ This is a project where a simple voting system is combined with blockchain.
 
 ## Please take note 
 
-The main objective of this program was to combine voting system with blockchain and strictly for educational and research purpose only. If there is any suggestion regarding this project feel free to let me know ;-)
+The main objective of this program was to combine voting system with blockchain.This project is strictly for educational and research purposes only. If there is any suggestion regarding this project feel free to let me know ;-)
