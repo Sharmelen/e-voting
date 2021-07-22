@@ -26,7 +26,7 @@ def mail(email_id,faculty):
 	smtp_server = "smtp.gmail.com"
 	sender_email = "sharmelenvasnthan@gmail.com"  # Enter your address
 	receiver_email = email_id                           ##"sharmelenvasanthan@gmail.com"  # Enter receiver address
-	password = "nelemrahs"
+	password = "yourpass"
 	msg =  "Your Private Key Is: " + str(account.private_key) + "\nYour Public Key Is: " +  (account.public_key)                                         ##"OMG IT WORKS!!!!!!!"
 	message = """\
 	Subject: Vote Key
